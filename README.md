@@ -92,6 +92,9 @@ Once the script completes successfully, follow these steps to start the ADK serv
     ```
     You are now ready to develop and interact with your skills.
 
+    ![The integrated Langflow agent successfully answers a question in the Orchestrate chat UI](./assets/orchestrate-chat.png)
+
+
 ## Troubleshooting
 
 #### `Cannot connect to the Docker daemon`
