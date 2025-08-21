@@ -122,4 +122,3 @@ Once the script completes successfully, follow these steps to start the ADK serv
     ```sh
     colima delete
     ```
-# wxo-adk-on-colima
